@@ -8,6 +8,12 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
+" highlight all search matches
+set hlsearch
+
+" highlight current line
+set cursorline
+
 " disable default folding for markdown
 let g:vim_markdown_folding_disabled=1
 
@@ -27,3 +33,7 @@ nmap <F8> :TagbarToggle<CR>
 
 " show hidden files by default in NERDTree
 let g:NERDTreeShowHidden=1
+
+" file syntaxes
+" associate *.foo with php filetype
+au BufRead,BufNewFile vifmrc setfiletype vim
