@@ -1,0 +1,6 @@
+" Enable system clipboard
+set clipboard=unnamedplus
+
+imap <C-L> <C-O>x
+nmap <C-T> /[A-Z]<return>
+nmap <C-B> ?[A-Z]<return>
