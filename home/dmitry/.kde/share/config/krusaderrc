@@ -1,0 +1,466 @@
+First Time=false
+Height 1080=1023
+State=AAAA/wAAAAD9AAAAAAAABgMAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABhAGMAdABpAG8AbgBzAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Version=2.4.0-beta3
+Width 1920=1539
+
+[Archives]
+Supported Packers=tar,gzip,bzip2,lzma,xz,unzip,zip,cpio,dpkg
+lastUsedPacker=tar
+
+[Colors]
+Alternate Background=
+Current Background=85,170,255
+Current Foreground=255,255,255
+Dim Inactive Colors=false
+Enable Alternate Background=false
+KDE Default=false
+Statusbar Background Active=206,206,206
+Statusbar Background Inactive=206,206,206
+Statusbar Foreground Active=KDE default
+
+[Custom Selection Mode]
+Immediate Context Menu=true
+Left Selects=false
+Right Preserves=false
+Right Selects=false
+ShiftCtrl Left Selects=true
+Space Moves Down=false
+
+[Dependencies]
+bzip2=/bin/bzip2
+checksum utility=/usr/bin/md5sum
+cpio=/bin/cpio
+diff utility=/usr/bin/kdiff3
+dpkg=/usr/bin/dpkg
+gzip=/bin/gzip
+kdesu=/usr/lib/kde4/libexec/kdesu
+krusader=/usr/bin/krusader
+locate=/usr/bin/locate
+lzma=/usr/bin/lzma
+mailer=/usr/bin/thunderbird
+md5sum=/usr/bin/md5sum
+mount=/bin/mount
+rar=/usr/bin/rar
+sha1sum=/usr/bin/sha1sum
+sha224sum=/usr/bin/sha224sum
+sha256sum=/usr/bin/sha256sum
+sha384sum=/usr/bin/sha384sum
+sha512sum=/usr/bin/sha512sum
+tar=/bin/tar
+thunderbird=/usr/bin/thunderbird
+umount=/bin/umount
+unrar=/usr/bin/unrar
+unzip=/usr/bin/unzip
+updatedb=/usr/bin/updatedb
+xz=/usr/bin/xz
+zip=/usr/bin/zip
+
+[General]
+Editor=internal editor
+Terminal=gnome-terminal
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Height 1080=528
+Width 1920=960
+
+[KFileMetaPropsPlugin]
+Height 1080=269
+Width 1920=277
+
+[KPropertiesDialog]
+Height 1080=534
+Height 965=412
+Width 1920=497
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Search Dir Config Depth=9
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=4
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Print Settings][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Sans,10,-1,5,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Kate Print Settings][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=Printing
+
+[Kate Print Settings][Text]
+Legend=false
+LineNumbers=false
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=0
+Macro Contents=\\0
+Macro Registers=ÓÅê
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=true
+Icon Bar=false
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=jongo,jong,streaml,YARN,2.10,paypal,SQLite,export,dmitry,setCurrentText,detec,all,src,var,mail,config.vm.boot_mode,64,x64,getoption,add_option
+Search/Replace Flags=140
+Show Scrollbars=0
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=true
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[Konfigurator]
+Window Height=680
+Window Maximized=false
+Window Width=900
+
+[KrInterBriefView]
+IconSize=16
+
+[KrInterDetailedView]
+AutoResizeColumns=false
+IconSize=16
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03\x04\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01Ê\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00à\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+
+[KrViewerWindow]
+Window Height=-1
+Window Maximized=true
+Window Width=-1
+
+[ListPanelButtons]
+Icons=false
+
+[Look&Feel]
+Default Panel Type=0
+Filelist Font=Inconsolata,14,-1,5,50,0,0,0,0,0
+FlatOriginBar=true
+Media Button Visible=true
+Mouse Selection=3
+Panel Toolbar visible=true
+Show splashscreen=false
+
+[Notification Messages]
+DoNotShowAgainContinueSearchDialog=true
+Too Long Lines Wrapped Warning=false
+syncGUIexit=true
+
+[Open-with settings]
+CompletionMode=5
+History=arch
+
+[PanelLayout]
+FrameColor=default
+FrameShadow=Plain
+FrameShape=NoFrame
+Layout=krusader:compact
+
+[Private]
+Maximized=false
+PopularUrls=file:///,file:///home/dmitry/main/apps/vifm-0.8/,file:///home/dmitry/main/apps/vifm-0.8/src/,file:///home/dmitry/main/dev/letter/,file:///home/dmitry/.m2/repository/.cache/maven-download-plugin/,file:///home/dmitry/main/apps/vifm-0.7.8/src/,file:///home/dmitry/main/apps/,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/,file:///home/dmitry/main/apps/vifm-0.7.8/,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/,file:///home/dmitry/,file:///home/dmitry/main/dev/,file:///home/dmitry/main/dev/site-new/,file:///home/dmitry/main/dev/site-new/src/,file:///home/dmitry/main/dev/site-new/src/common/,file:///home/dmitry/.vifm/,file:///home/dmitry/main/,file:///home/dmitry/main/dev/site-new/deploy/playbooks/roles/nginx/,file:///home/dmitry/main/dev/site-new/deploy/playbooks/roles/nginx/templates/,file:///home/dmitry/main/dev/site-new/deploy/playbooks/roles/,file:///home/dmitry/main/dev/site-new/deploy/,file:///home/dmitry/main/dev/site-new/deploy/playbooks/,file:///home/dmitry/main/dev/site-new/src/common/images/,file:///home/dmitry/main/dev/robomongo-site/,file:///home/dmitry/main/dev/robomongo-site/src/,file:///home/dmitry/main/dev/robomongo-site/src/models/,file:///home/dmitry/main/dev/robomongo-site-100/,file:///home/dmitry/main/dev/robomongo-site-100/src/,file:///home/dmitry/main/dev/robomongo-site-100/src/pages/,file:///home/dmitry/main/dev/robomongo-site-100/src/pages/home/
+PopularUrlsRank=20,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Splitter Sizes=767,766
+Start Position=277,31
+Start Size=1504,934
+cmdline history=cd /home/dmitry/IdeaProjects/StormTest/src/storm/starter/spout/,/home/dmitry/IdeaProjects/StormTest/src/storm/starter/spout/
+newFTP Completion list=209.114.35.186:1,166.78.183.215:1,192.168.1.13:1,198.61.166.171:2,54.225.64.133:1
+newFTP History list=198.61.166.171,54.225.64.133,192.168.1.13,166.78.183.215,209.114.35.186
+
+[Protocols]
+Handled Protocols=tar,krarc,iso
+Mimes For iso=application/x-cd-image
+Mimes For krarc=application/zip,application/x-xz,application/x-rpm,application/x-rar,application/x-lha,application/x-deb,application/x-cpio,application/x-arj,application/x-ace,application/x-7z-compressed
+Mimes For tar=application/x-xz-compressed-tar,application/x-tarz,application/x-tar,application/x-compressed-tar,application/x-bzip-compressed-tar
+
+[QueueManager]
+Active=0
+Queues=default
+Window Height=400
+Window Width=300
+Window X=20
+Window Y=20
+
+[Search]
+ContainsText Completion=TestWord,Wrap mode turned off because,dropIndex,def combine_vars,def playbook_basedir,removeField,compare,combine_vars,commonjs-search-path,c_local_adjustor,StringData::compare,SQLite,findOne,find(,function insert,function insert(,function insert (,font,font.size,install,insert = function,insert : ,interrupt(),inline,iso,isodate,iostream,jasty,jaste,QFileDialog,Qt5,QT_SUPPORT_ENABLED,RoboScintilla,testparser,test-time.cc,boost,html,handlers,parseHtml,prototype.insert,kill-pane,X ,update,enable_testing,Date,DateParser,DETECT_QT,DEVELOPER_DYNAMIC_RUNTIME,group_vars,guava.version,mongo_port,mongod_port,mona,module should mirror the NodeJS module system according the documented,marko-taglib.json,when,You can install it by typing,VarsModule,.insert,.insert =,qt4,qt5,BOOST_ENABLED,admin,size,storm.topology,speak,speakup,LocalCluster,>storm.topology,vim.txt,Join a recognized,JoinGroupRequestAndHeader ,lighter,ClientHelper
+ContainsText History=JoinGroupRequestAndHeader ,ClientHelper,mona,guava.version,lighter,Join a recognized,vim.txt,module should mirror the NodeJS module system according the documented,commonjs-search-path,inline,marko-taglib.json,speak,speakup,>storm.topology,storm.topology,LocalCluster,font.size,size,admin,SQLite,interrupt(),iostream,QT_SUPPORT_ENABLED,BOOST_ENABLED,DEVELOPER_DYNAMIC_RUNTIME
+SearchFor Completion=*,*.h,*.deb,*.yml,*.py,*.ico,*.less,expiration,May,2012,27020,original,zoo*,c++config,config,config.summary,dropIndex,index,krusa,/var/log,Tests,vars.py,vim.txt,vifm-app,libqgtk2.so,fontsampler,qml,qml*,q*,qcombobox,samza
+SearchFor History=*,samza,*.less,vifm-app,vim.txt,*.ico,qcombobox,q*,qml*,qml,fontsampler,config.summary,libqgtk2.so,*.py,vars.py,*.yml,Tests,27020,/var/log,*.deb,krusa,index,dropIndex,config,c++config
+Window Height=640
+Window Maximized=false
+Window Width=1392
+
+[Search][ResultView]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00ˇˇˇˇ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x05†\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x04∫\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=-1
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[Startup]
+Left Side Is Active=false
+Show Cmd Line=true
+Show FN Keys=false
+Show Terminal Emulator=false
+Show actions tool bar=false
+Show status bar=false
+Show tool bar=false
+Splitter Sizes=749,749
+Start To Tray=false
+Starter Profile Name=
+UI Save Settings=true
+Vertical Mode=false
+
+[Startup][Left Tab Bar]
+ActiveTab=0
+
+[Startup][Left Tab Bar][Tabs][Tab0]
+Properties=0
+Type=0
+Url=/home/dmitry
+
+[Startup][Left Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=.vifm,..,.vifm,apps,vifm-0.8,src,types.h,src,vifm-0.8,src,..,src,..
+Entrys=file:///home/dmitry,file:///home/dmitry/.vifm,file:///home/dmitry,file:///home/dmitry/main,file:///home/dmitry/main/apps,file:///home/dmitry/main/apps/vifm-0.8,file:///home/dmitry/main/apps/vifm-0.8/src,file:///home/dmitry/main/apps/vifm-0.8,file:///home/dmitry/main/apps,file:///home/dmitry/main/apps/vifm-0.7.8,file:///home/dmitry/main/apps/vifm-0.7.8/src,file:///home/dmitry/main/apps/vifm-0.7.8,file:///home/dmitry/main/apps/vifm-0.7.8/src
+
+[Startup][Left Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03\x04\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01Ê\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00à\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Left Tab Bar][Tabs][Tab1]
+Properties=0
+Type=0
+Url=/home/dmitry/streamlake.io/0.1/apps/hadoop
+
+[Startup][Left Tab Bar][Tabs][Tab1][History]
+CurrentIndex=0
+CurrentItems=sbin,hadoop,common,..,common,..,hdfs,hadoop,share,..,logs,hadoop,sbin
+Entrys=file:///home/dmitry/streamlake.io/0.1/apps/hadoop,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share/hadoop,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share/hadoop/common,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share/hadoop,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share/hadoop/hdfs,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share/hadoop,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/share,file:///home/dmitry/streamlake.io/0.1/apps/hadoop,file:///home/dmitry/streamlake.io/0.1/apps/hadoop/logs,file:///home/dmitry/streamlake.io/0.1/apps/hadoop,file:///home/dmitry/streamlake.io/0.1/apps,file:///home/dmitry/streamlake.io/0.1/apps/hadoop
+
+[Startup][Left Tab Bar][Tabs][Tab1][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=16
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03,\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01’\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00j\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00≠\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Left Tab Bar][Tabs][Tab2]
+Properties=0
+Type=0
+Url=/home/dmitry/main/dev/streamlake/streamlake-cli/target/classes
+
+[Startup][Left Tab Bar][Tabs][Tab2][History]
+CurrentIndex=0
+CurrentItems=..,..,..,..,cli,streamlake,io,classes,target,..,target,generated-sources,..
+Entrys=file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/io,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/io/streamlake,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/io/streamlake/cli,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/io/streamlake,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes/io,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/classes,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target,file:///home/dmitry/main/dev/streamlake/streamlake-cli,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target,file:///home/dmitry/main/dev/streamlake/streamlake-cli,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target,file:///home/dmitry/main/dev/streamlake/streamlake-cli/target/generated-sources
+
+[Startup][Left Tab Bar][Tabs][Tab2][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=16
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03,\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01’\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00j\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00≠\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=2
+
+[Startup][Left Tab Bar][Tabs][Tab3]
+Properties=0
+Type=0
+Url=/home/dmitry/.m2/repository/.cache/maven-download-plugin
+
+[Startup][Left Tab Bar][Tabs][Tab3][History]
+CurrentIndex=0
+CurrentItems=zookeeper-3.4.3.tar.gz,maven-download-plugin,.cache,repository,.m2,..,.cache
+Entrys=file:///home/dmitry/.m2/repository/.cache/maven-download-plugin,file:///home/dmitry/.m2/repository/.cache,file:///home/dmitry/.m2/repository,file:///home/dmitry/.m2,file:///home/dmitry,file:///home/dmitry/.cache,file:///home/dmitry
+
+[Startup][Left Tab Bar][Tabs][Tab3][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=16
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03\x04\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01Ê\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00à\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Right Tab Bar]
+ActiveTab=0
+
+[Startup][Right Tab Bar][Tabs][Tab0]
+Properties=0
+Type=0
+Url=/home/dmitry/main/dev/letter
+
+[Startup][Right Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=weekly_report_email.html,letter,..,..,..,..,logo,common,src,bin,deploy,site-new,static
+Entrys=file:///home/dmitry/main/dev/letter,file:///home/dmitry/main/dev,file:///home/dmitry/main/dev/site-new,file:///home/dmitry/main/dev/site-new/src,file:///home/dmitry/main/dev/site-new/src/common,file:///home/dmitry/main/dev/site-new/src/common/logo,file:///home/dmitry/main/dev/site-new/src/common,file:///home/dmitry/main/dev/site-new/src,file:///home/dmitry/main/dev/site-new,file:///home/dmitry/main/dev/site-new/deploy,file:///home/dmitry/main/dev/site-new,file:///home/dmitry/main/dev,file:///home/dmitry/main/dev/site-new
+
+[Startup][Right Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x02‚\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01ñ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00f\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00¨\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Right Tab Bar][Tabs][Tab1]
+Properties=0
+Type=0
+Url=/
+
+[Startup][Right Tab Bar][Tabs][Tab1][History]
+CurrentIndex=13
+CurrentItems=..,..,..,..,..,..,..,..,..,..,..,..,..,bin
+Entrys=file:///home/dmitry/main/dev/site-new/src/client/images,file:///home/dmitry/main/dev/site-new/src/client,file:///home/dmitry/main/dev/site-new/src/client/images,file:///home/dmitry/main/dev/site-new/src/client/images/join,file:///home/dmitry/main/dev/site-new/src/client/images/join/html5,file:///home/dmitry/main/dev/site-new/src/client/images/join,file:///home/dmitry/main/dev/site-new/src/client/images/join/dotnet,file:///home/dmitry/main/dev/site-new/src/client/images/join,file:///home/dmitry/main/dev/site-new/src/client/images/join/dotnet,file:///home/dmitry/main/dev/site-new/src/client/images/join,file:///home/dmitry/main/dev/site-new/src/client/images,file:///home/dmitry/main/dev/site-new/src/client/images/about,file:///home/dmitry/main/dev/site-new/src/client/images/about/grid,file:///
+
+[Startup][Right Tab Bar][Tabs][Tab1][View]
+AutoResizeColumns=false
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=16
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t™\x01\x00\x00\x00\x05\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x001\x00\x00\x03\x06\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01∫\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00f\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00¨\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Synchronize]
+Asymmetric=false
+Compare By Content=false
+Deletable Button=true
+Differents Button=true
+Duplicates Button=true
+Equals Button=false
+File Filter=*
+Follow Symlinks=false
+Ignore Case=false
+Ignore Date=false
+Left Directory History=/home/dmitry/main/dev/hello-samza-0.8/deploy/samza/config,/home/dmitry/main/dev/hello-samza/bin,/home/dmitry/apps/idea-13/bin,/home/dmitry/libs/qt-5.2.0-release2/qtbase,/home/dmitry/dev/site/site-blog/blog/html,/home/dmitry/dev/ansible-profiles-plugin,/home/dmitry/dev/tmp/robomongo,/home/dmitry/dev/tmp/robomongo/src/robomongo/core/domain,/home/dmitry/Ubuntu One,/home/dmitry/Ubuntu One/configs
+LeftToRight Button=true
+Parallel Threads=1
+Recurse Subdirectories=false
+Right Directory History=/home/dmitry/main/dev/hello-samza-0.8/src/main/config,/home/dmitry/main/dev/platform/bin,/home/dmitry/apps/idea-12/bin,/home/dmitry/libs/qt-5.2.0-release/qtbase,/home/dmitry/dev/site/site-web/src/main/resources/paralect/site/blog,/home/dmitry/dev/gitraise/deploy/vars_plugins,/home/dmitry/dev/robomongo-shrinked/robomongo,/home/dmitry/dev/robomongo-shrinked/robomongo/src/robomongo/core/domain,/home/dmitry,/home/dmitry/.kde/share/config
+RightToLeft Button=true
+Scroll Results=false
+Singles Button=true
+State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03ñ\x00\x00\x00\x07\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00–\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00h\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00ú\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00ú\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00h\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00ä\x00\x00\x00\x01\x00\x00\x00\x00
+Window Height=602
+Window Maximized=false
+Window Width=968
+
+[UserActions]
+Fixed Font=Monospace,10,-1,5,50,0,0,0,0,0
+Normal Font=Sans Serif,10,-1,0,50,0,0,0,0,0
+Terminal=gnome-terminal
+
+[ViewerModule]
+FirstRun=false
